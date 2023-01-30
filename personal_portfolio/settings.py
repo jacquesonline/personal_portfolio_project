@@ -25,7 +25,7 @@ SECRET_KEY = '+kgd3#+_=ncis$pkjzz^pj*ga%n@ypxyn&@=z4qw2ed*-ib9e!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['jslearns.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.jslearns.pythonanywhere.com']
 
 # Application definition
 
